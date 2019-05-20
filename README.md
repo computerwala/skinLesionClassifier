@@ -23,4 +23,9 @@ will classify the lesion.
 
 ### What's Next
 - [ ] Convert the model to TensorflowJS so that it can be used on the web
-- [ ] Upgrade the model so that it can classify lesions more in-depth
+- [ ] Upgrade the model so that it can classify lesions into more types
+
+### Acknowledgements
+1. Inception v3 Model - [https://github.com/tensorflow/models/tree/master/research/inception]
+2. Skin Lesions Classification Paper - [https://arxiv.org/pdf/1812.02316.pdf]
+3. HAM10000 Dataset - [https://www.nature.com/articles/sdata2018161]
