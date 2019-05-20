@@ -6,8 +6,8 @@ spread to other parts of the body. Fortunately, early detection can improve
 the chance of survival.
 
 This is a classification model that uses the HAM10000 dataset to classify skin 
-lesions as either melanoma or non-melanoma. It is trained on Google's Inception v3
-Convolutional Neural Network (CNN) model.
+lesions as either melanoma (malignant) or non-melanoma (benign). 
+It is trained on Google's Inception v3 Convolutional Neural Network (CNN) model.
 
 The model was trained using Keras and has an accuracy score of around 86%.
 
