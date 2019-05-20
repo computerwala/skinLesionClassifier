@@ -7,8 +7,12 @@ from keras.preprocessing.image import load_img
 from keras.preprocessing.image import img_to_array
 from keras.applications.inception_v3 import preprocess_input
 
+print('Loading the model...\n')
+
 # Load the previously saved model
 myModel = load_model('model.h5')
+
+print('\nSuccessfully loaded the model!')
 
 # Make a class that allows the user to predict lesions using a model
 class Session: 
