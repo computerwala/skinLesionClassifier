@@ -7,7 +7,7 @@ the chance of survival.
 
 This is a classification model that uses the HAM10000 dataset to classify skin 
 lesions as either melanoma (malignant) or non-melanoma (benign). 
-It is trained on Google's Inception v3 Convolutional Neural Network (CNN) model.
+It is trained on Google's Inception v3 convolutional neural network (CNN) model.
 
 The model was trained using Keras and has an accuracy score of around 86%.
 
