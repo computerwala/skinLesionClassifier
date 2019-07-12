@@ -22,8 +22,8 @@ image that you want to classify. Simply enter the entire file path and the model
 will classify the lesion.
 
 ### What's Next
-- [ ] Convert the model to TensorflowJS so that it can be used on the web
-- [ ] Upgrade the model so that it can classify lesions into more types
+- [ ] Convert the model to TensorflowJS so that it can be used on the web.
+- [ ] Re-create the model so that it supports multiclass classification.
 
 ### Acknowledgements
 1. Inception v3 Model - [https://github.com/tensorflow/models/tree/master/research/inception]
